@@ -114,7 +114,7 @@ body {
     font-weight: 400;
 }
 
-@media (max-width: 1200px){
+@media (max-width: 1600px){
     
     .cabecalho{
         padding: 10%;
@@ -125,7 +125,7 @@ body {
     }
 
     .apresentacao{
-        flex-direction: column-reverse;
+        flex-direction: column;
         padding: 5%;
     }
 
