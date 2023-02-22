@@ -1,6 +1,6 @@
 # Portífolio
 Olá, Bem vindo ao meu projeto de Portífolio
-![image](https://user-images.githubusercontent.com/50896077/220162643-0e33d49a-7a6d-4756-8651-662dcbc2d780.png)
+![image](https://user-images.githubusercontent.com/50896077/220696850-94040914-dee1-4f3b-a719-caef73cd9548.png)
 ## Ferramentas utilizadas:
 
 * HTML
